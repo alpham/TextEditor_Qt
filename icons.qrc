@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="mainIcon">icons/1362827468_publish.png</file>
+    </qresource>
+</RCC>
